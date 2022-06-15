@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""License
+SPDX-License-Identifier:MIT
+Copyright (C) 2022 Yusuke Yamasaki. All Rights Reserved.
+"""
+
 import numpy as np
 from time import time
 from copy import copy
